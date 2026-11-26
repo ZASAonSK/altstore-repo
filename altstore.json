@@ -81,9 +81,19 @@
         "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/docs/screenshots/home.jpeg",
         "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/docs/screenshots/sound.jpeg",
         "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/docs/screenshots/gestures.jpeg",
-        "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/docs/screenshots/more.jpeg"
+        "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/docs/screenshots/more.jpeg",
+        "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/docs/screenshots/widgets.png"
       ],
       "versions": [
+        {
+          "version": "1.6.0.1",
+          "buildVersion": "15",
+          "date": "2026-11-26",
+          "localizedDescription": "Version 1.6.0.1. See the release notes on GitHub.",
+          "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.6.0.1/Pinna.ipa",
+          "size": 1399197,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.6.0",
           "buildVersion": "13",
@@ -202,11 +212,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.6.0",
+      "version": "1.6.0.1",
       "versionDate": "2026-11-26",
-      "versionDescription": "Version 1.6.0",
-      "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.6.0/Pinna.ipa",
-      "size": 1399190,
+      "versionDescription": "Version 1.6.0.1",
+      "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.6.0.1/Pinna.ipa",
+      "size": 1399197,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
