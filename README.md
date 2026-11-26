@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="112" alt="ZASAonSK Apps">
+</p>
+
 # ZASAonSK Apps — source for AltStore, SideStore, Feather and LiveContainer
 
 Open-source iOS apps that are not on the App Store. Add this source to your sideloading app and install or update them from there.
