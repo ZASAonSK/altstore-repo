@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/ZASAonSK/altstore-repo/main/altstore.json",
   "subtitle": "Open-source iOS apps",
   "description": "Open-source iOS apps by ZASAonSK for AltStore, SideStore, Feather and LiveContainer.",
-  "iconURL": "https://raw.githubusercontent.com/ZASAonSK/BudsBattery/main/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+  "iconURL": "https://raw.githubusercontent.com/ZASAonSK/altstore-repo/main/icon.png",
   "website": "https://github.com/ZASAonSK/altstore-repo",
   "tintColor": "36C5B0",
   "apps": [
