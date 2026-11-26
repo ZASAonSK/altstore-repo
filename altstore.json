@@ -67,6 +67,39 @@
           "NSBluetoothAlwaysUsageDescription": "The app reads the battery level of your Galaxy Buds from their Bluetooth broadcast and connection."
         }
       }
+    },
+    {
+      "bundleIdentifier": "io.github.zasaonsk.pinna",
+      "name": "Pinna",
+      "developerName": "ZASAonSK",
+      "subtitle": "Control Galaxy Buds on iPhone",
+      "localizedDescription": "Control Samsung Galaxy Buds from your iPhone: noise cancelling, ambient sound and adaptive mode, ANC and ambient levels, equalizer, balance, gestures and lights, in-ear detection, game mode and Find My Earbuds. Live battery for both earbuds and the case, and live volume.\n\nUnofficial and open source. Verified on Galaxy Buds3 Pro; other models are experimental. The earbuds do not report their current mode to an iPhone, so the app shows what you set in it.",
+      "iconURL": "https://raw.githubusercontent.com/ZASAonSK/Pinna/main/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+      "tintColor": "2A9D9A",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-26",
+          "localizedDescription": "Version 1.0.0. See the release notes on GitHub.",
+          "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.0.0/Pinna.ipa",
+          "size": 818092,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-26",
+      "versionDescription": "Version 1.0.0",
+      "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.0.0/Pinna.ipa",
+      "size": 818092,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Pinna connects to your Galaxy Buds over Bluetooth to control them and show their battery and volume."
+        }
+      }
     }
   ],
   "news": []

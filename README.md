@@ -34,5 +34,6 @@ https://raw.githubusercontent.com/ZASAonSK/altstore-repo/main/altstore.json
 | | App | Description | |
 | --- | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/ZASAonSK/BudsBattery/main/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="48" alt="Buds Battery"> | **Buds Battery** | Battery levels of Samsung Galaxy Buds on iPhone: left earbud, right earbud and case. | [Source code](https://github.com/ZASAonSK/BudsBattery) |
+| <img src="https://raw.githubusercontent.com/ZASAonSK/Pinna/main/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="48" alt="Pinna"> | **Pinna** | Control Samsung Galaxy Buds on iPhone: noise cancelling, ambient, EQ, gestures, live battery and volume. | [Source code](https://github.com/ZASAonSK/Pinna) |
 
 `altstore.json` is updated automatically by the release workflow of each app; do not edit it by hand.
