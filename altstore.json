@@ -86,6 +86,15 @@
       ],
       "versions": [
         {
+          "version": "1.7.2",
+          "buildVersion": "21",
+          "date": "2026-11-27",
+          "localizedDescription": "Version 1.7.2. See the release notes on GitHub.",
+          "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.7.2/Pinna.ipa",
+          "size": 1409127,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "20",
           "date": "2026-11-27",
@@ -239,11 +248,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.7.1",
+      "version": "1.7.2",
       "versionDate": "2026-11-27",
-      "versionDescription": "Version 1.7.1",
-      "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.7.1/Pinna.ipa",
-      "size": 1408887,
+      "versionDescription": "Version 1.7.2",
+      "downloadURL": "https://github.com/ZASAonSK/Pinna/releases/download/v1.7.2/Pinna.ipa",
+      "size": 1409127,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
